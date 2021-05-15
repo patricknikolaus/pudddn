@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patrick  
 - 👀 I’m interested in becoming a web/software developer.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Ruby, Javascript, HTML, & CSS.
 - 💞️ I’m looking to collaborate on anything as soon as I have my bearings in a language.
 - 📫 How to reach me pdn6991@gmail.com
 
